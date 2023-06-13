@@ -1,0 +1,10 @@
+* s-protobuf
+
+Protocol Buffers in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ndantam/s-protobuf.git   |
+| commit  | c7ee5af  |
+| systems | s-protobuf |
+|---------+-------------------------------------------|
+
